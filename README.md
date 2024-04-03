@@ -9,7 +9,6 @@ Run this on your desktop terminal in a specific folder where you want this test 
 - Open `VS Code Terminal`
 - Run `npm init playwright@latest`
 - Skip overriding files by pressing `N` when there is any command needed in the terminal
-- All the packages will be installed and you will be ready to run the test now
 - Run `npm install dotenv --save`
 - Create a file named `.env` in the root of your repository
 - Enter email `EMAIL_ID = 'youremail@mail.com'` 
